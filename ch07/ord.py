@@ -1,0 +1,5 @@
+print(ord('A'))
+print(ord('a'))
+print(ord('0'))
+print(ord('台'))
+print(ord('😊'))
